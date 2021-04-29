@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,node,vscode
 
 # Custom
-dk.napp.audioplayer/
+./dk.napp.audioplayer/
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
